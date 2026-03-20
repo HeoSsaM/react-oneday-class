@@ -46,19 +46,22 @@ export default function HomePage() {
           <h2>나에게 맞는 클래스를 찾아보세요</h2>
           <div className="category">
             <Link to="/classes">
-              <img src="/images/oneday01.jpg" alt="드로잉" />
+              <img src={`${import.meta.env.BASE_URL}images/oneday01.jpg`} alt="드로잉" />
               <span>드로잉</span>
             </Link>
+
             <Link to="/classes">
-              <img src="/images/oneday10.jpg" alt="요리" />
+              <img src={`${import.meta.env.BASE_URL}images/oneday10.jpg`} alt="요리" />
               <span>요리</span>
             </Link>
+
             <Link to="/classes">
-              <img src="/images/oneday05.jpg" alt="디자인" />
+              <img src={`${import.meta.env.BASE_URL}images/oneday05.jpg`} alt="디자인" />
               <span>디자인</span>
             </Link>
+
             <Link to="/classes">
-              <img src="/images/oneday08.jpg" alt="사진" />
+              <img src={`${import.meta.env.BASE_URL}images/oneday08.jpg`} alt="사진" />
               <span>사진</span>
             </Link>
           </div>

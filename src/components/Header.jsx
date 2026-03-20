@@ -10,7 +10,7 @@ export default function Header() {
     <header>
       <div className="inner">
         <h1 className="logo">
-            <Link to='/'><img src="/images/logo.png" alt="oneday" /><span className="blind">원데이클래스</span></Link>
+            <Link to='/'><img src={`${import.meta.env.BASE_URL}images/logo.png`} alt="로고" /><span className="blind">원데이클래스</span></Link>
           </h1>
         <Navbar />
         <div className="util-area">
