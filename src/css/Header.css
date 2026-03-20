@@ -1,0 +1,39 @@
+header {
+    border-bottom: 1px solid #ccc;
+}
+header .inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 75px;
+}
+header .logo img {
+    width: 160px;
+    height: auto;
+}
+header .nav,
+header .util-area  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
+}
+header .nav a {
+    font-size: 18px;
+    font-weight: 500;
+}
+header .nav a.active {
+    color: #ff4400dd
+}
+header .util-area {
+    gap: 50px;
+}
+header .util-area a, 
+header .util-area button {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+header .util-area button {
+    background: none;
+}

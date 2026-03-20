@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Cafe24Gowoonbam';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Oneprettynight.woff') format('woff');
+    font-weight: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'PyeongchangPeace';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2206-02@1.0/PyeongChangPeace-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PyeongchangPeace';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2206-02@1.0/PyeongChangPeace-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-display: swap;
+}
+.inner {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+section {
+  padding: 80px 0;
+}
+
+section .inner h2 {
+  font-family: 'Cafe24Gowoonbam';
+  font-size: 40px;
+}
+section .desc {
+  line-height: 1.5;
+  word-break: keep-all;
+}
+.main-banner {
+  margin-bottom: 100px;
+}
+.hero h1 {
+  font-family: 'PyeongchangPeace';
+  color: #fff;
+}
+.btn-area button {
+  padding: 8px 25px;
+  border-radius: 10px;
+  border: none;
+  font-size: 16px;
+}
+.card figure {
+  overflow: hidden;
+  height: 250px;
+}

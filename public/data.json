@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "드로잉 원데이 클래스",
+    "category": "미술",
+    "teacher": "김하늘",
+    "price": "35,000원",
+    "image": "images/oneday01.jpg",
+    "shortDesc": "기초 선 그리기부터 시작하는 초보 드로잉 수업",
+    "intro": "처음 그림을 배우는 사람도 부담 없이 참여할 수 있는 클래스입니다. 연필 사용법과 간단한 명암 표현을 배울 수 있습니다.",
+    "prepare": "스케치북, 연필, 지우개",
+    "review": "초보자도 쉽게 따라갈 수 있어서 만족도가 높은 수업입니다."
+  },
+  {
+    "id": 2,
+    "title": "베이킹 쿠키 클래스",
+    "category": "요리",
+    "teacher": "박소연",
+    "price": "42,000원",
+    "image": "images/oneday02.jpg",
+    "shortDesc": "달콤한 쿠키를 직접 만들어보는 실습형 클래스",
+    "intro": "반죽 만들기부터 오븐 사용까지 차근차근 배울 수 있는 클래스입니다.",
+    "prepare": "앞치마, 필기도구",
+    "review": "직접 만든 쿠키를 가져갈 수 있어 만족도가 높습니다."
+  },
+  {
+    "id": 3,
+    "title": "캘리그라피 클래스",
+    "category": "디자인",
+    "teacher": "이서준",
+    "price": "30,000원",
+    "image": "images/oneday03.jpg",
+    "shortDesc": "예쁜 손글씨를 배우는 감성 클래스",
+    "intro": "기초 획 연습부터 짧은 문장 쓰기까지 배울 수 있습니다.",
+    "prepare": "붓펜, 연습지",
+    "review": "힐링되는 수업으로 인기 있습니다."
+  },
+  {
+    "id": 4,
+    "title": "스마트폰 사진 클래스",
+    "category": "사진",
+    "teacher": "최민호",
+    "price": "38,000원",
+    "image": "images/oneday04.jpg",
+    "shortDesc": "핸드폰으로 감성 사진 찍기",
+    "intro": "구도와 빛을 활용한 사진 촬영 기법을 배웁니다.",
+    "prepare": "스마트폰",
+    "review": "바로 활용 가능한 실용적인 수업입니다."
+  },
+  {
+    "id": 5,
+    "title": "아크릴 페인팅 클래스",
+    "category": "미술",
+    "teacher": "정유진",
+    "price": "45,000원",
+    "image": "images/oneday05.jpg",
+    "shortDesc": "컬러 감각을 키우는 페인팅 클래스",
+    "intro": "기초 색상 조합과 표현 기법을 배웁니다.",
+    "prepare": "앞치마",
+    "review": "색감 표현이 재미있는 수업입니다."
+  },
+  {
+    "id": 6,
+    "title": "홈카페 라떼 클래스",
+    "category": "요리",
+    "teacher": "김도윤",
+    "price": "40,000원",
+    "image": "images/oneday06.jpg",
+    "shortDesc": "라떼아트 기초 배우기",
+    "intro": "집에서도 가능한 라떼아트를 배웁니다.",
+    "prepare": "텀블러",
+    "review": "실생활 활용도가 높습니다."
+  },
+  {
+    "id": 7,
+    "title": "포스터 디자인 클래스",
+    "category": "디자인",
+    "teacher": "박지훈",
+    "price": "50,000원",
+    "image": "images/oneday07.jpg",
+    "shortDesc": "감각적인 포스터 제작",
+    "intro": "레이아웃과 타이포그래피를 배웁니다.",
+    "prepare": "노트북",
+    "review": "디자인 기초 잡기에 좋습니다."
+  },
+  {
+    "id": 8,
+    "title": "야경 사진 촬영 클래스",
+    "category": "사진",
+    "teacher": "이민재",
+    "price": "48,000원",
+    "image": "images/oneday08.jpg",
+    "shortDesc": "야경 촬영 노하우 배우기",
+    "intro": "삼각대 활용과 야경 촬영 기법을 배웁니다.",
+    "prepare": "카메라",
+    "review": "사진 퀄리티가 확 올라갑니다."
+  },
+  {
+    "id": 9,
+    "title": "수채화 클래스",
+    "category": "미술",
+    "teacher": "한지민",
+    "price": "32,000원",
+    "image": "images/oneday09.jpg",
+    "shortDesc": "부드러운 색감 표현 배우기",
+    "intro": "수채화 기법과 색 번짐 표현을 배웁니다.",
+    "prepare": "수채화 물감",
+    "review": "차분한 분위기에서 힐링됩니다."
+  },
+  {
+    "id": 10,
+    "title": "브런치 요리 클래스",
+    "category": "요리",
+    "teacher": "최수진",
+    "price": "44,000원",
+    "image": "images/oneday10.jpg",
+    "shortDesc": "감성 브런치 만들기",
+    "intro": "간단하지만 예쁜 브런치 요리를 배웁니다.",
+    "prepare": "앞치마",
+    "review": "SNS 감성 요리로 인기 많습니다."
+  }
+]
